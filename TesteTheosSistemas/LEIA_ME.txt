@@ -1,0 +1,4 @@
+Para o desenvolvimento da API foi utlizado o NodeJS, utilize o o comando "npm install" para instalar as dependências e o comando "npm start" para iniciar a API.
+
+Foi utilizado o Angular 7
+npm install -g @angular/cli
